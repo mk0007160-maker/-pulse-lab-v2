@@ -1,0 +1,10 @@
+{
+  "name": "Pulse Lab 2.0",
+  "short_name": "Pulse Lab V2",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#100d20",
+  "theme_color": "#211a3b",
+  "description": "Free heart rate training analytics"
+}
